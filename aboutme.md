@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Some Information
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi I'm Tyler. This is my first project using markdown and HTML so please excuse the under construction nature of this site. I like problem solving. Whether it's a geometry proof or an optimization problem I am happy to work on them.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+# Work & Education
+I'm working on my PhD in astronomy at the University of Texas at Austin. My current work is split into Solar System and Galatic Archeology where I study these systems to understand more about star systems and galaxies. Currently, I use high resolution spectroscopy of comets and stars to understand the Solar System and Galaxy respectively. 
 
-What else do you need?
+I went to the University of Southern Maine for undergrad. I graduated with a majors in Physics & Math with minors in Chemistry & Computer Science. 
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+# Hobbies
+I program and play games in my free time. When the weather permits I enjoy going on hikes and site seeing. I am slowly working my way through project Euler. I've finished the first page, albeit with some pretty inelegant solutions. I have recently finished my first playthrough of Baldur's Gate 3 and found it to be enjoyable inspite of its early access shortcomings. During the COVID quarintine I've been visiting the state parks in Maine with my Mom. We have visited a majority of the parks at or below Acadia. 
