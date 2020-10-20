@@ -31,7 +31,7 @@ navbar-links:
   About Me: "aboutme"
   Projects:
   Research Blog:
-    - October 20/2020: "Research Blog October 20/2020"
+    - October 20/2020: "oct20_2020"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
